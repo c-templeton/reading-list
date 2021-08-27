@@ -1,2 +1,111 @@
 # Reading list
 Books, articles and references
+
+## General
+- [ ] 2001 A Space Odyssey
+- [ ] More Than Human
+- [ ] A Mindfulness Guide for the Frazzled
+- [ ] Chasing the Scream
+- [ ] The Mountain Shadow
+- [ ] The Sleep Revolution
+- [ ] Farmageddon
+- [ ] The Subtle Art of Not Giving a Fuck
+- [ ] The Barefoot Investor
+- [ ] Modern Romance (Aziz Ansari)
+- [ ] How Much Is Enough? (Arun Abey)
+- [ ] Factfullness
+- [ ] Stuffocation
+- [ ] Fight Like a Girl
+- [ ] Still Lucky
+- [ ] Road Left Traveled
+- [ ] Zig Zag Zen: Buddhism and Psychedelics
+- [ ] Originals: How Non-Conformists Move the World
+- [ ] Fitzroy the biography (pieo)
+- [ ] The Wife Drought
+- [ ] Death March (Edward Yourdon)
+- [ ] Tao Te Ching (Lao Tzu)
+- [ ] Anti-Fragile (Nassim Nicolas Taleb)
+- [ ] 365 Days of Wellness
+- [ ] Science of Fear (Dan Gardner)
+- [ ] Three Bags Full
+- [ ] Flourish (Martin Seligman)
+- [ ] Explaining the essentials of healthy personality (Camay Woodall)
+- [ ] Mistakes were made by not by me
+- [ ] Nudge (Richard H Thaler)
+- [ ] Thinking, Fast and Slow (Daniel Kahneman)
+- [ ] Bank 3
+- [ ] Mindset: The New Psychology of Success (Dr. Carol Dweck)
+- [ ] Enlightenment Now (Steven Pinker)
+- [ ] How Will Capitalism End?: Essays on a Failing System
+- [ ] How to measure anything in cyber security risk
+- [ ] The Doctor’s Diet (Sandro Demaio)
+
+
+## Business / agile / ways-of-working
+- [ ] The Toyota Way
+- [ ] The Lean Startup
+- [ ] Creativity Inc
+- [ ] Lean for Dummies
+- [ ] Management 3.0
+- [ ] Conflict Without Casualties
+- [ ] Mythical Man Month
+- [ ] Kaizen Express
+- [ ] Bury My Heart at Conference Room B (Stan Slap)
+- [ ] Amistead Maupin: Tales of the City
+- [ ] Faster Than The Speed of Thought
+- [ ] Toyota Under Fire
+- [ ] Useful Belief
+- [ ] The Ministry of Ungentlemanly warfare
+- [ ] The Home in High Ground
+- [ ] The Advantage (Patrick Lencioni)
+- [ ] The Hard Thing About Hard Things: Building a business when there are no easy answers
+- [ ] The Vanguard Method
+- [ ] Amplifiers
+- [ ] Man's Search for Meaning (victor frankel)
+- [ ] Everybody Lies (Seth Stephens-Davidowitz)
+- [ ] Work Rules (Lazlo Bock)
+
+## Other work related
+- [ ] The First 90 Days (Michael Watkins)
+- [ ] Lean In
+- [ ] Who Moved My Cheese (Dr Spencer Johnson)
+- [ ] The Phoenix Project
+- [ ] Management in Mayberry (article)
+- [ ] Lean-Agile leaders (from SAFe)
+- [ ] Declaration of Interdependence (a manifesto for project leaders)
+- [ ] Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone (Stay Nadella)
+- [ ] Thinking Fast and Slow
+- [ ] So Good You Can’t Ignore You (Cal Newport)
+- [ ] Think Small
+- [ ] Me.inc (Gene Simmons)
+- [ ] Capitalism without the Capital (Jonathan Haskel)
+- [ ] People-centric Security (Lance Hayden)
+- [ ] It’s all about the people (Stephen androile)
+- [ ] Evil By Design (Chris Nodder)
+- [ ] Digital vs Human (Richard Watson)
+- [ ] When to rob a bank (Steven Levitt)
+- [ ] The Speed of Trust (Stephen Covey)
+- [ ] The Art of Conversation (Judy Apps)
+- [ ] The Third Space (Adam Fraser)
+- [ ] Conscious Business (Fred Kofman)
+- [ ] Reality is Broken (Jane McGonigal)
+- [ ] Fucking Apostrohies
+- [ ] People Centric Security
+- [ ] Peopleware (Tom DeMarco)
+- [ ] You Have The Power To Change Stuff (Daniel Flynn)
+- [ ] The Matter Myth (Professor Paul Davies and Dr. John Gribben)
+- [ ] Succeeding with Agile (Mike Cohn)
+- [ ] Becoming a Technical Leader (Jerry Weinberg)
+- [ ] Agile Software Development – the cooperate game (Alistair Cockburn)
+- [ ] The DevOps Handbook (Gene Kim)
+- [ ] The New Rules of Work (Alexandra Cavoulacos)
+- [ ] Collaborating with the Enemy: How to Work with People You Don’t Agree with or Like or Trust
+- [ ] Getting to 50/50
+- [ ] The One Minute Manager
+- [ ] The Start-up of You (Reid Hoffman)
+- [ ] Project Retrospectives (Norman Kerth)
+- [ ] Business Model Generation
+- [ ] Managing to Learn
+- [ ] Inspired Building Products Customers Love (Marty Cagan)
+- [ ] Principles or Product Development Flow (Don Reinertsen)
+- [ ] Measure What Matters (John Doerr)
